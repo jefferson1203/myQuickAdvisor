@@ -1,5 +1,5 @@
 
-# Quick Advisor
+# myQuickAdvisor
 
 ### [Live Site](https://quick-advisor.netlify.app/)
 
